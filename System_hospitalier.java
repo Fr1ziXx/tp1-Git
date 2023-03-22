@@ -42,7 +42,7 @@ public class System_hospitalier {
 	private String comparerDonnes() {
 		// Comparaison des données
 		return "Cluster trouvé";
-		//Texte Ajouté
+		//Texte Ajoute
 	}
 
 }
